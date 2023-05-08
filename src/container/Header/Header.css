@@ -1,0 +1,27 @@
+.app__header-h1{
+    color: var(--color-green);
+    font-size: 70px;
+    font-family: var(--font-base);
+    line-height: 90px;
+    letter-spacing: 0.04em;
+}
+
+.app__header-p{
+    margin: 2rem 0;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.app__header-btn{
+    padding: 0.5rem 1rem;
+    border: none;
+    outline: none;
+    color: var(--color-white);
+    background: var(--color-green);
+    cursor: pointer;
+}
+
+.app__wrapper_img img{
+    width: 80%;
+}
+

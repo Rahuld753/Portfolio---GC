@@ -1,0 +1,12 @@
+.app__about-content{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+    width: 100%;
+}
+
+.app__about-content p{
+    font-size: 14px;
+    font-style: italic;
+    color: var(--color-black);
+}
